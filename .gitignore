@@ -1,0 +1,4 @@
+# ignore the logs, dataset, and venv folders
+logs/
+dataset/
+venv/
