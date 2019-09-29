@@ -2,3 +2,7 @@
 logs/
 dataset/
 venv/
+__pychache__/
+.idea/
+
+.DS_Store
